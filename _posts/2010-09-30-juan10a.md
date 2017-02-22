@@ -1,0 +1,33 @@
+---
+title: Handwritten Text Recognition for Ancient Documents
+abstract: Huge amounts of legacy documents are being published by on-line digital
+  libraries world wide. However, for these raw digital images to be really useful,
+  they need to be transcribed into a textual electronic format that would allow unrestricted
+  indexing, browsing and querying. In some cases, adequate transcriptions of the handwritten
+  text images are already available. In this work three systems are presented to deal
+  with this sort of documents. The first two address two different approaches for
+  semi-automatic transcription of document images. The third system implements an
+  alignment method to find mappings between word images of a handwritten document
+  and their respective words in its given transcription.
+pdf: "./juan10a/juan10a.pdf"
+layout: inproceedings
+key: juan10a
+month: 0
+firstpage: 58
+lastpage: 65
+origpdf: http://jmlr.org/proceedings/papers/v11/juan10a/juan10a.pdf
+sections: 
+authors:
+- given: Alfons
+  family: Juan
+- given: Verónica
+  family: Romero
+- given: Joan Andreu
+  family: Sánchez
+- given: Nicolás
+  family: Serrano
+- given: Alejandro H.
+  family: Toselli
+- given: Enrique
+  family: Vidal
+---

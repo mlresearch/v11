@@ -8,6 +8,9 @@ volume: 11
 month: 0
 address: Cumberland Lodge, Windsor, UK
 year: '2010'
+start: 2010-09-01
+end: 2010-09-03
+published: 2010-09-30
 shortname: Workshop on Applications of Pattern Analysis
 sections:
 - name: preface

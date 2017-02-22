@@ -1,0 +1,25 @@
+---
+title: Learning to Rank for Personalized News Article Retrieval
+abstract: This paper aims to tackle the very interesting and important problem of
+  user personalized ranking of search results. The focus is on news retrieval and
+  the data from which the ranking model is learned was provided by a large online
+  newspaper. The personalized news search ranking model which we have developed takes
+  into account not only document content and metadata, but also data specific to the
+  user such as age, gender, job, income, city, country etc. All the user specific
+  data is provided by the user himself when registering to the news site.
+pdf: "./dali10a/dali10a.pdf"
+layout: inproceedings
+key: dali10a
+month: 0
+firstpage: 152
+lastpage: 159
+origpdf: http://jmlr.org/proceedings/papers/v11/dali10a/dali10a.pdf
+sections: 
+authors:
+- given: Lorand
+  family: Dali
+- given: Blaž
+  family: Fortuna
+- given: Jan
+  family: Rupnik
+---

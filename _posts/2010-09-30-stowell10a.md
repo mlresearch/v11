@@ -1,0 +1,27 @@
+---
+title: Cross-associating unlabelled timbre distributions to create expressive musical
+  mappings
+abstract: "SubSift matches submitted conference or journal papers to potential peer
+  reviewers based on the similarity between the paperâ\x80\x99s abstract and the reviewerâ\x80\x99s
+  publications as found in online bibliographic databases such as Google Scholar.
+  Using concepts from information retrieval including a bag-of-words representation
+  and cosine similarity, the SubSift tools were originally created to streamline the
+  peer review process for the ACM SIGKDDâ\x80\x9909 data mining conference. This paper
+  describes how these tools were subsequently developed and deployed in the form of
+  web services designed to support not only peer review but also personalised data
+  discovery and mashups. SubSift has already been used by several major data mining
+  conferences and interesting applications in other fields are now emerging."
+pdf: "./stowell10a/stowell10a.pdf"
+layout: inproceedings
+key: stowell10a
+month: 0
+firstpage: 28
+lastpage: 35
+origpdf: http://jmlr.org/proceedings/papers/v11/stowell10a/stowell10a.pdf
+sections: 
+authors:
+- given: Dan
+  family: Stowell
+- given: Mark D.
+  family: Plumbley
+---
