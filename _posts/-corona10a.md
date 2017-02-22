@@ -1,0 +1,24 @@
+---
+title: Detection of Server-side Web Attacks
+abstract: Web servers and server-side applications constitute the key components of
+  modern Internet services. We present a pattern recognition system to the detection
+  of intrusion attempts that target such components. Our system is anomaly-based,
+  i.e., we model the normal (legitimate) traffic and intrusion attempts are identified
+  as anomalous traffic. In order to address the presence of attacks (noise) inside
+  the training set we employ an ad-hoc outlier detection technique. This approach
+  does not require supervision and allows us to accurately detect both known and unknown
+  attacks against web services.
+pdf: "./corona10a/corona10a.pdf"
+layout: inproceedings
+key: corona10a
+month: 0
+firstpage: 160
+lastpage: 166
+origpdf: http://jmlr.org/proceedings/papers/v11/corona10a/corona10a.pdf
+sections: 
+authors:
+- given: Igino
+  family: Corona
+- given: Giorgio
+  family: Giacinto
+---

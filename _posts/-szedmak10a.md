@@ -1,0 +1,32 @@
+---
+title: 'Maximum Margin Learning with Incomplete Data: Learning Networks instead of
+  Tables'
+abstract: In this paper we address the problem of predicting when the available data
+  is incomplete. We show that changing the generally accepted table-wise view of the
+  sample items into a graph representable one allows us to solve these kind of problems
+  in a very concise way by using the well known convex, one-class classification based,
+  optimisation framework. The use of the one-class formulation in the learning phase
+  and in the prediction as well makes the entire procedure highly consistent. The
+  graph representation can express the complex interdependencies among the data sources.
+  The underlying optimisation problem can be transformed into a on-line algorithm,
+  e.g. a perceptron type one, and in this way it can deal with data sets of million
+  items. This framework covers and encompasses supervised, semi-supervised and some
+  unsupervised learning problems. Furthermore, the data sources can be chosen as not
+  only simple binary variables or vectors but text documents, images or even graphs
+  with complex internal structures.
+pdf: "./szedmak10a/szedmak10a.pdf"
+layout: inproceedings
+key: szedmak10a
+month: 0
+firstpage: 96
+lastpage: 102
+origpdf: http://jmlr.org/proceedings/papers/v11/szedmak10a/szedmak10a.pdf
+sections: 
+authors:
+- given: Sandor
+  family: Szedmak
+- given: Yizhao
+  family: Ni
+- given: Steve R.
+  family: Gunn
+---

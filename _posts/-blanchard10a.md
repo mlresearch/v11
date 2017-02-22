@@ -1,0 +1,43 @@
+---
+title: "$\\mu$TOSS - Multiple hypothesis testing in an open software system"
+abstract: "Î¼TOSS is an R package providing an open source, easy-to-extend platform
+  for multiple hypothesis testing (MHT), one of the most active research fields in
+  statistics over the last 10-15 years. Its first motivation is to establish a common
+  platform and standardization for MHT procedures at large. The Î¼TOSS software has
+  been designed and written in the framework of a ``Harvest Programme'' call of the
+  PASCAL2 European research network. Basically, it consists of the two R packages
+  mutoss and mutossGUI. For researchers, it features a convenient unification of interfaces
+  for MHT procedures (including standardized functions to access existing specific
+  MHT R packages such as multtest and multcomp, as well as recent MHT procedures that
+  are not available elsewhere) and helper functions facilitating the setup of benchmark
+  simulations for comparison of competing methods. For end users, a graphical user
+  interface and an online userâ\x80\x99s guide for finding appropriate methods for
+  a given specification of the multiple testing problem is included. Ongoing maintenance
+  and subsequent extensions will aim at establishing Î¼TOSS as a state of the art
+  in statistical computing for MHT."
+pdf: "./blanchard10a/blanchard10a.pdf"
+layout: inproceedings
+key: blanchard10a
+month: 0
+firstpage: 12
+lastpage: 19
+origpdf: http://jmlr.org/proceedings/papers/v11/blanchard10a/blanchard10a.pdf
+sections: 
+authors:
+- given: Gilles
+  family: Blanchard
+- given: Thorsten
+  family: Dickhaus
+- given: Niklas
+  family: Hack
+- given: Frank
+  family: Konietschke
+- given: Kornelius
+  family: Rohmeyer
+- given: Jonathan
+  family: Rosenblatt
+- given: Marsel
+  family: Scheer
+- given: Wiebke
+  family: Werft
+---

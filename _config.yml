@@ -1,0 +1,39 @@
+# Site settings
+# Auto generated from v11.bib
+---
+booktitle: Proceedings of the First Workshop on Applications of Pattern Analysis
+publisher: JMLR Workshop and Conference Proceedings
+logoright: basic_files/logo.png
+volume: 11
+month: 0
+address: Cumberland Lodge, Windsor, UK
+year: '2010'
+shortname: Workshop on Applications of Pattern Analysis
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: DieteWAPA2010
+abstract: 
+origpdf: 
+pdf: "./DieteWAPA2010/DieteWAPA2010.pdf"
+editors:
+- given: Tom
+  family: Diethe
+- given: Nello
+  family: Cristianini
+- given: John
+  family: Shawe-Taylor
+title: Proceedings of the First Workshop on Applications of Pattern Analysis
+conference: Proceedings of the First Workshop on Applications of Pattern Analysis
+email: ''
+description: Proceedings of the First Workshop on Applications of Pattern Analysis,
+  Cumberland Lodge, Windsor, UK
+url: http://proceedings.mlr.press
+baseurl: "/v11"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
