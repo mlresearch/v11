@@ -18,11 +18,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: DieteWAPA2010
+id: DieteWAPA2010
 abstract: 
 origpdf: 
 pdf: "./DieteWAPA2010/DieteWAPA2010.pdf"
-editors:
+editor:
 - given: Tom
   family: Diethe
 - given: Nello
