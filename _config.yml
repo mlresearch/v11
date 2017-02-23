@@ -19,8 +19,6 @@ sections:
 layout: proceedings
 id: DieteWAPA2010
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/DieteWAPA2010/DieteWAPA2010.pdf
 editor:
 - given: Tom
   family: Diethe
