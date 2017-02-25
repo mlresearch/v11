@@ -25,10 +25,20 @@ editor:
   family: Cristianini
 - given: John
   family: Shawe-Taylor
-title: Proceedings of the First Workshop on Applications of Pattern Analysis
-email: ''
-description: Proceedings of the First Workshop on Applications of Pattern Analysis,
-  Cumberland Lodge, Windsor, UK
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the First Workshop on Applications of Pattern Analysis
+    Held in Cumberland Lodge, Windsor, UK on 1-03 September 2010
+
+  Published as Volume 11 by the Proceedings of Machine Learning Research on 30 September 2010.
+
+  Volume Edited by:
+    Tom Diethe
+    Nello Cristianini
+    John Shawe-Taylor
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v11"
 twitter_username: mlresearch
@@ -38,6 +48,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v11
+email: ''
 conference:
   name: Proceedings of the First Workshop on Applications of Pattern Analysis
   url: 
