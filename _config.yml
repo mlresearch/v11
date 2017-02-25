@@ -51,6 +51,8 @@ github:
   edit: true
   repository: v11
 bibtex_copy: true
+endnote_copy: true
+apa_copy: true
 email: ''
 conference:
   name: Proceedings of the First Workshop on Applications of Pattern Analysis
