@@ -29,7 +29,7 @@ editor:
   family: Shawe-Taylor
 description: |
   Proceedings of the First Workshop on Applications of Pattern Analysis
-    Held in Cumberland Lodge, Windsor, UK on 1-03 September 2010
+    Held in Cumberland Lodge, Windsor, UK on 01-03 September 2010
 
   Published as Volume 11 by the Proceedings of Machine Learning Research on 30 September 2010.
 
@@ -40,7 +40,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
-date_str: 1--03 Sep
+date_str: 01--03 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v11"
 twitter_username: mlresearch
