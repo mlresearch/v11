@@ -18,6 +18,8 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: DieteWAPA2010
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Tom
   family: Diethe
@@ -25,7 +27,6 @@ editor:
   family: Cristianini
 - given: John
   family: Shawe-Taylor
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the First Workshop on Applications of Pattern Analysis
     Held in Cumberland Lodge, Windsor, UK on 1-03 September 2010
