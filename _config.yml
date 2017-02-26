@@ -20,6 +20,7 @@ id: DieteWAPA2010
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: false
 editor:
 - given: Tom
   family: Diethe
@@ -50,9 +51,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v11
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: Proceedings of the First Workshop on Applications of Pattern Analysis
