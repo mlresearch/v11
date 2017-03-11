@@ -17,9 +17,6 @@ sections:
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: DieteWAPA2010
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Tom
@@ -28,6 +25,7 @@ editor:
   family: Cristianini
 - given: John
   family: Shawe-Taylor
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the First Workshop on Applications of Pattern Analysis
     Held in Cumberland Lodge, Windsor, UK on 01-03 September 2010
@@ -44,7 +42,7 @@ description: |
 date_str: 01--03 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v11"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -56,6 +54,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -71,3 +70,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v11.bib
+---
